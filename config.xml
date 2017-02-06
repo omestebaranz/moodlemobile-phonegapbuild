@@ -5,14 +5,14 @@
         id        = "com.moodle.moodlemobile"
         versionCode = "20160"
         version   = "3.2.0">
-    <name>Moodle Mobile</name>
+    <name>Yosport App</name>
 
     <description>
-        Moodle Mobile official app
+        Yosport App
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Pty Ltd
+        Oscar Martin
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
