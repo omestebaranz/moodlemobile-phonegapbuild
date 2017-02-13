@@ -10,7 +10,7 @@
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "ciudaddelaraqueta.yosolutions.es/yosport",
+    "siteurl": "http://ciudaddelaraqueta.yosolutions.es/yosport",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false"
 }
