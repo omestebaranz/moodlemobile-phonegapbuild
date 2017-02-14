@@ -9566,8 +9566,8 @@ angular.module('mm.core.login', [])
         templateUrl: 'core/components/login/templates/credentials.html',
         controller: 'mmLoginCredentialsCtrl',
         params: {
-            siteurl: '',
-            username: '',
+            siteurl: 'ciudaddelaraqueta.yosolutions.es/yosport',
+            username: 'alumnodemo-1',
             urltoopen: '',
             siteconfig: null
         },
